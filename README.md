@@ -16,6 +16,6 @@ Experiência em: Python
 
 ## Projetos:
 
-* **Analisando dados da empresa:** https://bit.ly/3gN6tgG
+* **Analisando dados da empresa:** https://bit.ly/3u4V4gc
 
 ---
