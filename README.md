@@ -9,7 +9,6 @@
 
 Como um estudante de sistemas de informação venho buscando me capacitar o máximo dentro das novas tecnologias, estou bastante focado nas linguagens Python e SQL, já tive transição pelo curso de engenharia mecânica por 6º períodos. Eu combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção ao detalhes.
 
-Experiência em: Python
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/cassiomagalhaes/)
