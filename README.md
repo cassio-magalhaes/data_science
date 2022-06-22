@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-cassio-red.svg)](https://www.linkedin.com/in/cassiomagalhaes/) [![](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-394/)
+[![author](https://res.cloudinary.com/practicaldev/image/fetch/s--E1XpU3Ja--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4wyotukogv6kk0bcnstj.png)
 
 <p align="center">
   <img src="banner.png" >
@@ -7,7 +7,7 @@
 # Cássio Magalhães
 
 
-Como um estudante de sistemas de informação venho buscando me capacitar o máximo dentro das novas tecnologias, estou bastante focado nas linguagens Python e SQL, já tive transição pelo curso de engenharia mecânica por 6º períodos. Eu combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção ao detalhes.
+Venho buscando me capacitar o máximo dentro das novas tecnologias, atualmente estudando linguagens Python, java e JavaScript, combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção ao detalhes.
 
 
 **Links:**
